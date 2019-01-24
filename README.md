@@ -1,2 +1,2 @@
-# Weathe_app
-simple weather app based on on IONIC framework
+# weather
+Download node modules before running this app.
